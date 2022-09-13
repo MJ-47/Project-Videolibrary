@@ -1,6 +1,6 @@
 # Videothek
 
-My friend and I programmed a website where employees can register, edit, delete and rent movies. It was a project for the Ük and we had a lot of fun during coding and designing this project.
+Me @MJ-47 and my friend @rayback0001 programmed a website where employees can register, edit, delete and rent movies. It was a project for the Ük and we had a lot of fun during coding and designing this project.
 
 
 
